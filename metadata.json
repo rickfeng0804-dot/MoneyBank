@@ -1,0 +1,8 @@
+{
+  "name": "零錢分析工具",
+  "description": "利用錢包內的重量傳感器數據分析零錢數目，並提供零錢餘額查詢、條狀與實體硬幣圖表展示，以及精準的防超額漏斗提款輸出功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
